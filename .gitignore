@@ -1,11 +1,3 @@
-## HEADER from file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/user-manual.html#manipulating-branches
-## Lines starting with '#' are considered comments.
-## Ignore any file named foo.txt.
-#foo.txt
-## Ignore (generated) html files,
-#*.html
-## except foo.html which is maintained by hand.
-#!foo.html
-## Ignore objects and archives.
-#*.[oa]
+/unusedstuff
+/.ipynb_checkpoints
 /oldstuff
